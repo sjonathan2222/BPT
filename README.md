@@ -1,5 +1,4 @@
 # Basic Penetration Testing
-
 # Nmap Scan
 
 ## Open Ports
