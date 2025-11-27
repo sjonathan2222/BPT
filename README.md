@@ -1,6 +1,6 @@
 # Basic Penetration Testing
 
-## Nmap Scan
+## -Nmap Scan
 
 ### Open Ports
 
@@ -10,7 +10,7 @@
 443
 ```
 
-## Gobuster
+## -Gobuster
 
 ```
 /.htaccess
