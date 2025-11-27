@@ -1,6 +1,6 @@
 # Basic Penetration Testing
 
-- Nmap Scan
+## - Nmap Scan
 
 ### Open Ports
 
